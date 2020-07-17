@@ -1,0 +1,21 @@
+img {
+    max-width: 100%;
+}
+
+.navbar-brand {
+    max-width: 150px;
+}
+
+header {
+    background-color: #f14d91;
+    padding: 100px 0px;
+    text-align: center;
+}
+
+header h1 {
+    text-transform: capitalize;
+    color: #fff;
+    font-size: 60px;
+    font-weight: 600;
+    text-shadow: 0px 4px 1px #000000a3;
+}
